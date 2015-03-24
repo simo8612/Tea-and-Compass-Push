@@ -11,6 +11,7 @@ var tab1 = Titanium.UI.createTab({
 var tabGroup = Titanium.UI.createTabGroup();
 	// open window
 	win1.open(); 
+	
  
  var Teas = ['#F5F5DC', '#FFE4B5', '#FFE4C4', '#D2B48C', '#C3B091', '#C3B091', '#926F5B', "#804000", '#64321', '#3D2B1F'];
  
